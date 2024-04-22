@@ -1,12 +1,13 @@
 Boas vindas ao meu perfil 🩵🍇
+
 Meu nome é Luzia Claryce
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fphotos%2F459965-my-little-pony-friendship-is-magic&psig=AOvVaw30JflTUlUWakWXK87o1pPU&ust=1713913594610000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCNjV6un31oUDFQAAAAAdAAAAABD8AQ)
-
-
+![](https://media1.tenor.com/m/GKC84QgDER4AAAAC/mlp-wink.gif)
 
 Estou estudando na Plataforma Alura
+
 Estou me desenvolvendo na linguagem JavaScript
+
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 Você pode entrar em contato comigo 📫
