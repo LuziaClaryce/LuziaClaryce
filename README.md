@@ -1,7 +1,7 @@
 Boas vindas ao meu perfil 🩵🍇
 Meu nome é Luzia Claryce
 
-![https://images.app.goo.gl/6HJDdKYcmVjgPQ9BA]
+!link[https://images.app.goo.gl/6HJDdKYcmVjgPQ9BA]
 
 Estou estudando na Plataforma Alura
 Estou me desenvolvendo na linguagem JavaScript
