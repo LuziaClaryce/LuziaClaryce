@@ -1,16 +1,16 @@
 Boas vindas ao meu perfil 🩵🍇
 
-Meu nome é Luzia Claryce
+Meu nome é **Luzia Claryce**
 
 ![](https://media1.tenor.com/m/GKC84QgDER4AAAAC/mlp-wink.gif)
 
-Estou estudando na Plataforma Alura
+Estou estudando na Plataforma [Alura](https://www.alura.com.br)
 
-Estou me desenvolvendo na linguagem JavaScript
+Estou me desenvolvendo na linguagem **JavaScript**
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Você pode entrar em contato comigo 📫
+**Você pode entrar em contato comigo** 📫
 
 00001247843336sp@al.educacao.sp.gov.br
 
